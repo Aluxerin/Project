@@ -1,2 +1,2 @@
-# Project
-Daniel Sieński 158954
+# Project ganerowany kod 251390
+
